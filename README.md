@@ -1,6 +1,6 @@
-# Blendernet Addon
+# BlenderNet Addon
 
-This addon is for integration to the Blendernet services, to include packaging your .blend resources, uploadig to the Blendernet servers, checking job queues, etc.
+This addon is for integration to the BlenderNet services, to include packaging your .blend resources, uploadig to the Blendernet servers, checking job queues, etc.
 
 ## Installation
 
